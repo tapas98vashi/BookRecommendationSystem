@@ -3,6 +3,7 @@ Recommendation systems have emerged as a result of the large amount of data avai
 
 Inroduction to Recommender Systems:
 Recommendation system is an information filtering technique, which provides users with information and important suggestions which they might be interested in. Some important recommendation systems which we use in our day to day lives:
+
 Netflix
 
 Video on demand recommendations
@@ -26,6 +27,7 @@ BX-Books
 BX-Book-Ratings
 
 My approach:
+
 Step 1: Download the dataset and reading the dataset.
 
 Step 2: Understanding the dataset better by using inbuilt functions such as shape, column, dtypes, etc.
